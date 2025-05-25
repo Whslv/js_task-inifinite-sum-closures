@@ -14,12 +14,9 @@ function makeInfinityAdder() {
 
       return result;
     }
+    sum += num;
 
-    if (num !== undefined) {
-      sum += num;
-
-      return adder;
-    }
+    return adder;
   };
 
   return adder;
