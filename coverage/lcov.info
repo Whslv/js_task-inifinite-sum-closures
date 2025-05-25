@@ -1,10 +1,10 @@
 TN:
-SF:src\makeInfinityAdder.js
-FN:6,makeInfinityAdder
+SF:src\makeAdder.js
+FN:6,makeAdder
 FN:9,(anonymous_1)
 FNF:2
 FNH:2
-FNDA:7,makeInfinityAdder
+FNDA:7,makeAdder
 FNDA:28,(anonymous_1)
 DA:7,7
 DA:9,7

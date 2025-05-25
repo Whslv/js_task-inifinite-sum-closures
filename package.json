@@ -2,7 +2,7 @@
   "name": "js-task-infinite-sum",
   "version": "1.0.0",
   "description": "js task for closures practice",
-  "main": "src/makeInfinityAdder.js",
+  "main": "src/makeAdder.js",
   "scripts": {
     "init": "mate-scripts init",
     "start": "mate-scripts start",
